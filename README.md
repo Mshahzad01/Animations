@@ -1,1 +1,1 @@
-This is animation learning resource.
+i ma flutter developer
